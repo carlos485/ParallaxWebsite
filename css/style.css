@@ -80,7 +80,11 @@ body, html{
 }
 
 @media screen and (max-width: 500px){
-  .pimg1 .ptext .border{
-    font-size: 10px;
+  .pimg1 .ptext .border {
+    font-size: 18px;
+  }
+  .section.section-light,.section.section-dark{
+    font-size: 15px;
+    text-align: left;
   }
 }
