@@ -78,3 +78,9 @@ body, html{
     background-attachment:scroll;
   }
 }
+
+@media screen and (max-width: 500px){
+  .pimg1 .ptext .border{
+    font-size: 10px;
+  }
+}
