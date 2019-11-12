@@ -85,6 +85,6 @@ body, html{
   }
   .section{
     font-size: 13px;
-    text-align: justify;
+    text-align: left;
   }
 }
