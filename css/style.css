@@ -83,7 +83,7 @@ body, html{
   .pimg1 .ptext .border {
     font-size: 15px;
   }
-  .section.section-light,.section.section-dark{
+  .section{
     font-size: 13px;
     text-align: justify;
   }
